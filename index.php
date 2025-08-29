@@ -7,6 +7,7 @@
     <link rel="icon" href="favicon.ico" type="image/x-icon">
     <script src="index.js"></script>
     <script src="https://unpkg.com/webamp@1.4.0/built/webamp.bundle.min.js"></script>
+    <link rel="stylesheet" href="https://epiccity.nekoweb.org/ring//onionring - small.css">
     <title>lexm</title>
 </head>
 <body>
@@ -53,8 +54,8 @@
                 <p style="font-family: var(--main-font);">Kirito139 ·
                 roguewielder</p>
                 <p style="font-family: var(--main-font);">San Francisco, CA</p>
-                <a href="mailto:lmulder@duck.com" style="align-self: center; text-decoration: none; color: inherit;">
-                    <img alt="Email" src="https://raw.githubusercontent.com/Kirito139/stash/refs/heads/main/icons/mail.png">
+                <a href="mailto:webmaster@lexm.leprd.space" style="align-self: center; text-decoration: none; color: inherit;">
+                    <img alt="webmaster[at]lexm[dot]leprd[dot]space" src="https://raw.githubusercontent.com/Kirito139/stash/refs/heads/main/icons/mail.png">
                 </a>
                 <a href="https://spacehey.com/profile?id=3603438" style="align-self: center; text-decoration: none; color: inherit;">
                     <img alt="SpaceHey" src="https://raw.githubusercontent.com/Kirito139/stash/refs/heads/main/icons/spachey.png">
@@ -174,7 +175,7 @@
                 <hr>
                 <!-- wakatime languages chart -->
                 <figure>
-                    <embed src="https://wakatime.com/share/@Kirito139/41ef517e-b132-44c5-aee3-12f8c6e459dc.svg"></embed>
+                    <embed src="https://wakatime.com/share/@Kirito139/41ef517e-b132-44c5-aee3-12f8c6e459dc.svg">
                 </figure>
                 <hr>
                 <p>Poetry—click each one to expand it:</p>
@@ -273,9 +274,17 @@ I’m sorry
             </main>
         </div>
         <div class="sidebar">
-            <p> Visits since 2025-07-09 at 16:10: <a href="https://smallcounter.com">
+            <p> Visits since 2025-07-09 at 16:10: <!-- <a href="https://smallcounter.com">
                 <img src="https://smallcounter.com/count.php?c_style=88&id=1752102264" border=0 alt="web counter">
-            </a>
+            </a> -->
+            <!-- FC2 Counter  Starts here -->
+            <script language="javascript" type="text/javascript" src="//counter1.fc2.com/counter.php?id=40513368&main=1"></script><noscript><img src="//counter1.fc2.com/counter_img.php?id=40513368&main=1" /></noscript>
+            <!-- FC2 Counter  Ends here -->
+            <br>
+            <!-- FC2 Counter  Starts here -->
+            Current Viewers:<script language="javascript" type="text/javascript" src="//counter1.fc2.com/views.php?id=40513368&main=1"></script><noscript><img src="//counter1.fc2.com/counter_now.php?id=40513368&main=1" /></noscript>
+            <!-- FC2 Counter  Ends here -->
+            </p>
             
             <p>Swatch time:
             <a href="https://wiki.melonland.net/swatch_time" style="color:
@@ -296,7 +305,8 @@ I’m sorry
                 alt="The current mood of kirito139 at www.imood.com" border="0"></a>
             <br>
             Sign my guestbook:<a href="https://lexm.atabook.org" style="color: inherit;"><img
-                src="https://raw.githubusercontent.com/Kirito139/stash/refs/heads/main/icons/guestbook.png"></a>
+                src="https://raw.githubusercontent.com/Kirito139/stash/refs/heads/main/icons/guestbook.png"
+                alt="CLICK IT! NOW!!"></a>
             </p>
             <iframe src="https://incr.easrng.net/badge?key=lexm" style="background:
                 url(//incr.easrng.net/bg.gif)" title="increment badge" width="88" height="31"
@@ -323,7 +333,7 @@ I’m sorry
 
             <!-- Survev.io -->
             <a href="https://survev.io/" style="color: inherit !important;">
-                <img src="https://raw.githubusercontent.com/Kirito139/stash/refs/heads/main/icons/survev.ico">
+                <img src="https://raw.githubusercontent.com/Kirito139/stash/refs/heads/main/icons/survev.ico" alt="Survev.io">
             </a><br>
 
             <!-- Vapor Trails -->
@@ -333,7 +343,7 @@ I’m sorry
             
             <!-- WarBrokers -->
             <a href="https://warbrokers.io" style="color: inherit !important;">
-                <img alt="WarBrokers" src="https://raw.githubusercontent.com/Kirito139/stash/refs/heads/main/icons/warbrokers.ico">
+                <img alt="WarBrokers" src="https://raw.githubusercontent.com/Kirito139/stash/refs/heads/main/icons/warbrokers.ico" alt="WarBrokers">
             </a><br>
 
             <!-- ev.io -->
@@ -357,15 +367,10 @@ I’m sorry
     <footer>
         <p>Webrings!</p>
         <div id="webring-wrapper" style="text-decoration: none;">
-            <a href="https://webring.hackclub.com/" id="previousBtn" class="webring-anchor"
-                title="Previous">‹</a>
-            <a href="https://webring.hackclub.com/" class="webring-logo" title="Hack Club Webring"
-                alt="Hack Club Webring"></a>
-            <a href="https://webring.hackclub.com/" id="nextBtn" class="webring-anchor"
-                title="Next">›</a>
-            <script src="https://webring.hackclub.com/embed.min.js"></script>
+            <iframe src="https://webring.hackclub.com/embed.html" width="90px" height="60px" frameborder="0"></iframe>
             <!-- Geekring widget #3 - 88x31 px banner by wirlaburla -->
             <p>
+            <!--
             <map name="badge-geekring">
                 <area shape="rect" coords="4,3,13,28"
                 href="http://geekring.net/site/NUMBER/previous" alt="Previous">
@@ -376,14 +381,31 @@ I’m sorry
                 <area shape="rect" coords="23,3,63,28" href="https://geekring.net/" alt="Geekring">
             </map>
             </p>
-           <img usemap="#badge-geekring" src="http://geekring.net/banner/geek_2.gif" alt="The
-           Geekring">
-           <br>
-           <a href="https://webring.dinhe.net/">The Retronaut Webring</a>
-           <br>
-           <a href="https://webring.dinhe.net/prev/https://kirito139.github.io">‹‹</a>
-           <a href="https://webring.dinhe.net/random">Random</a>
-           <a href="https://webring.dinhe.net/next/https://kirito139.github.io">››</a>
+            <img usemap="#badge-geekring" src="http://geekring.net/banner/geek_2.gif" alt="The Geekring">
+            <br>
+            -->
+            <a href="https://webring.dinhe.net/" style="color: inherit;">The Retronaut Webring</a>
+            <br>
+            <a href='https://webring.dinhe.net/prev/http://lexm.leprd.space'>‹‹</a>
+            <a href="https://webring.dinhe.net/random">Random</a>
+            <a href='https://webring.dinhe.net/next/http://lexm.leprd.space'>››</a>
+            <br>
+            <br>
+
+            <!-- Bucket Webring -->
+            <a href="https://webring.bucketfish.me">
+                <img src="https://raw.githubusercontent.com/Kirito139/stash/refs/heads/main/icons/bucket.jpg" alt="Bucket Webring" style="width: 16px">
+            </a> <br>
+            <a href="https://webring.bucketfish.me/redirect.html?to=prev&name=lexm">‹‹</a>
+            <a href="https://webring.bucketfish.me/redirect.html?to=random&name=lexm">Random</a>
+            <a href="https://webring.bucketfish.me/redirect.html?to=next&name=lexm">››</a>
+
+            <!-- Nyan Cat Ring -->
+            <div id='NYAN_'>
+                <script type="text/javascript" src="https://epiccity.nekoweb.org/ring/onionring-variables.js"></script>
+                <script type="text/javascript" src="https://epiccity.nekoweb.org/ring/onionring-widget - small - tac.js"></script>
+            </div>
+            
         </div>
         <p> Cool sites!</p>
         <div id="cool-sites" style="text-decoration: none;">

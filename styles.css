@@ -66,7 +66,7 @@
     font-family: 'Silkscreen';
     src: url('https://kirito139.github.io/stash/fonts/slkscrb.ttf') format('truetype');
     font-weight: bold;
-    font-style: bold;
+    font-style: normal;
 }
 
 header {
@@ -107,7 +107,7 @@ body {
         pointer-events: none;
         z-index: 1000;
         background-image: url(https://raw.githubusercontent.com/Kirito139/stash/refs/heads/main/images/overlay.png);
-        background-repeat: all;
+        background-repeat: repeat;
         background-position: 0px 0px;
         animation-name: Static;
         animation-duration: 2s;
@@ -162,7 +162,7 @@ pre {
 
 .implementation-title {
     cursor: pointer;
-    font-weigt:bold;
+    font-weight:bold;
 }
 
 .implementation-content {
@@ -186,7 +186,7 @@ pre {
 
 .emotion-title {
     cursor: pointer;
-    font-weigt:bold;
+    font-weight:bold;
 }
 
 .emotion-content {
